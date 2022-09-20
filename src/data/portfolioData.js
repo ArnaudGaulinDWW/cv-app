@@ -3,7 +3,7 @@ export const portfolioData = [
     id: 1,
     name: 'Calcul d\'IMC',
     languages: ['react', 'javascript', 'bootstrap', 'css'],
-    languagesIcons: [,'fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-bootstrap'],
+    languagesIcons: ['fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-bootstrap'],
     source: 'https://github.com/ArnaudGaulinDWW',
     info: 'Mon second projet avec React est une application de calcul d\'indice de masse corporelle avec la posibilité de stocker les résultats pour effectuer un suivi.',
     picture: './media/Imc BodyBuddy.png',

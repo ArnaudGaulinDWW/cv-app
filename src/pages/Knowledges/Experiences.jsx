@@ -10,11 +10,9 @@ const Experiences = () => {
             <p>
               J'ai obtenu la certification developpeur web et web mobile à l'AFPA de Rochefort.
               Pendant cette formation j'ai éffectué un stage de  dix semaines avec Alexandre Achain developpeur web freelance.
-              J'y ai travaillé sur plusieurs projets : 
-              <ul>
+              J'y ai travaillé sur plusieurs projets :    
                 <li><span>BodyBuddy sur Symfony:</span>wireframe, maquetage, conception de la base de données, intégration des fonctionalités.</li>
                 <li><span>Mérové.communication sur Wordpress:</span>réunion avec le client, intégration.</li>
-              </ul> 
             </p>
           </div>
           <div className='exp-2'>

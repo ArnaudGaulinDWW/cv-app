@@ -18,7 +18,7 @@ const Home = () => {
                         </p>
                         <p>
                         J'ai eu la chance de suivre la formation de l'AFPA à Rochefort et d'obtenir 
-                        mon titre profesionel. Il me reste encore beaucoup à accomplir et à apprendre mais 
+                        mon titre profesionnel. Il me reste encore beaucoup à accomplir et à apprendre mais 
                         ce que j'ai pu en voir m'a passionné.
                         J'ai hâte d'en découvrir plus et de trouver ma place dans le monde du développement web.
                         </p>
