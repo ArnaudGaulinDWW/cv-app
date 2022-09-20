@@ -41,19 +41,19 @@ const Contact = () => {
                         <ul>
                             <a href="https://github.com/ArnaudGaulinDWW" target="blank" rel="noopener noreferrer">
                                 <h4>Github</h4>
-                                <i class="fa-brands fa-github"></i>
+                                <i className="fa-brands fa-github"></i>
                             </a>
                             <a href="https://www.linkedin.com/in/arnaud-gaulin-900290154/" target="blank" rel="noopener noreferrer">
                                 <h4>Linkedin</h4>
-                                <i class="fa-brands fa-linkedin"></i>
+                                <i className="fa-brands fa-linkedin"></i>
                             </a>
                             <a href="https://twitter.com/?lang=fr" target="blank" rel="noopener noreferrer">
                                 <h4>Twitter</h4>
-                                <i class="fa-brands fa-twitter"></i>
+                                <i className="fa-brands fa-twitter"></i>
                             </a>
                             <a href="https://codepen.io/" target="blank" rel="noopener noreferrer">
                                 <h4>CodePen</h4>
-                                <i class="fa-brands fa-codepen"></i>
+                                <i className="fa-brands fa-codepen"></i>
                             </a>
                         </ul>
                     </div>
