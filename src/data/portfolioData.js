@@ -10,6 +10,26 @@ export const portfolioData = [
     status: 'En cours'
   },
   {
+    id: 7,
+    name: 'App-react-pokemon',
+    languages: ['react', 'javascript', 'css', 'TypeScript', 'materialize'],
+    languagesIcons: ['fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-css3'],
+    source: 'https://github.com/ArnaudGaulinDWW/react-pokemon-app.git',
+    info: 'Un autre projet pour approfondir sur React avec en plus une couche de TypeScript et l\'utilisation du framework Matérialize.',
+    picture: './media/react-app-pokemon.png',
+    status: 'En cours'
+  },
+  {
+    id: 8,
+    name: 'API-pays',
+    languages: ['react', 'javascript', 'css', 'sass'],
+    languagesIcons: ['fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-css3', 'fa-brands fa-sass'],
+    source: 'https://github.com/ArnaudGaulinDWW/api-react-app.git',
+    info: 'Toujours pour approfondir mes connaissances sur React avec l\'utilisation d\'une API',
+    picture: './media/api-drapeau.png',
+    status: 'En cours'
+  },
+  {
     id: 2,
     name: 'CV-app',
     languages: ['react', 'javascript', 'sass', 'css'],
