@@ -59,4 +59,14 @@ export const portfolioData = [
     picture: './media/Green-Garden.png',
     status: 'terminé'
   },
+  {
+    id: 7,
+    name: 'App-react-pokemon',
+    languages: ['react', 'javascript', 'css', 'TypeScript', 'materialize'],
+    languagesIcons: ['fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-css3'],
+    source: 'https://github.com/ArnaudGaulinDWW/react-pokemon-app.git',
+    info: 'Un autre projet pour approfondir sur React avec en plus une couche de TypeScript et l\'utilisation du framework Matérialize.',
+    picture: './media/react-app-pokemon',
+    status: 'En cours'
+  },
 ]
