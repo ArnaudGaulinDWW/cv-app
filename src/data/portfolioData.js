@@ -10,7 +10,7 @@ export const portfolioData = [
     status: 'En cours'
   },
   {
-    id: 7,
+    id: 2,
     name: 'App-react-pokemon',
     languages: ['react', 'javascript', 'css', 'TypeScript', 'materialize'],
     languagesIcons: ['fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-css3'],
@@ -20,17 +20,17 @@ export const portfolioData = [
     status: 'En cours'
   },
   {
-    id: 8,
+    id: 3,
     name: 'API-pays',
     languages: ['react', 'javascript', 'css', 'sass'],
     languagesIcons: ['fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-css3', 'fa-brands fa-sass'],
     source: 'https://github.com/ArnaudGaulinDWW/api-react-app.git',
-    info: 'Toujours pour approfondir mes connaissances sur React avec l\'utilisation d\'une API',
+    info: 'Toujours pour approfondir mes connaissances sur React avec l\'utilisation d\'une API.',
     picture: './media/api-drapeau.png',
-    status: 'En cours'
+    status: 'terminé'
   },
   {
-    id: 2,
+    id: 4,
     name: 'CV-app',
     languages: ['react', 'javascript', 'sass', 'css'],
     languagesIcons: ['fa-brands fa-react', 'fa-brands fa-js', 'fa-brands fa-sass'],
@@ -40,7 +40,7 @@ export const portfolioData = [
     status: 'En ligne'
   },
   {
-    id: 3,
+    id: 5,
     name: 'Moon-Shiatsu.com',
     languages: ['wordpress', 'javascript', 'css'],
     languagesIcons: ['fa-brands fa-wordpress', 'fa-brands fa-js','fa-brands fa-css3'],
@@ -50,7 +50,7 @@ export const portfolioData = [
     status: 'En ligne'
   },
   {
-    id: 4,
+    id: 6,
     name: 'BuddyBody',
     languages: ['symfony', 'php', 'javascript', 'css'],
     languagesIcons: ['fa-brands fa-symfony', 'fa-brands fa-js', 'fa-brands fa-bootstrap'],
@@ -60,7 +60,7 @@ export const portfolioData = [
     status: 'En cours'
   },
   {
-    id: 5,
+    id: 7,
     name: 'Mérovée.com',
     languages: ['wordpress', 'javascript', 'css'],
     languagesIcons: ['fa-brands fa-wordpress', 'fa-brands fa-js','fa-brands fa-css3'],
@@ -70,7 +70,7 @@ export const portfolioData = [
     status: 'En ligne'
   },
   {
-    id: 6,
+    id: 8,
     name: 'Green-Garden',
     languages: ['php', 'javascript', 'css', 'bootstrap'],
     languagesIcons: ['fa-brands fa-php', 'fa-brands fa-js', 'fa-brands fa-css3'],
